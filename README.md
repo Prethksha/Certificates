@@ -21,6 +21,5 @@ This repository contains certifications and badges earned through my learning jo
 - Prompt Engineering
 - Python Development
 
-  
 ## Current Learning Path
 Continuously building knowledge through courses, projects, and hands-on practice.
